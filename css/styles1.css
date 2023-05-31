@@ -1,0 +1,10 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+a{text-decoration: underline; color: white;}
+/* a:hover{text-decoration: underline;} */
+
+.bold{font-weight: bold;}
+
+.underlined{text-decoration: underline;}
+
+.italics{font-style: italic;}
